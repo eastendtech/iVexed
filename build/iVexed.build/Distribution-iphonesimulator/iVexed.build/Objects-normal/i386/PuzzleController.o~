@@ -1,0 +1,17 @@
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m: In function '-[PuzzleController viewDidLoad]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:84: warning: 'ScoreController' may not respond to '-setParentViewController:'
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:84: warning: (Messages without a matching method signature
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:84: warning: will be assumed to return 'id' and accept
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:84: warning: '...' as arguments.)
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m: In function '-[PuzzleController showScores]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:490: warning: 'UIAlertView' may not respond to '-addTextFieldWithValue:label:'
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:491: warning: 'UIAlertView' may not respond to '-textFieldAtIndex:'
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m: In function '-[PuzzleController setStateString:]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:628: warning: assignment from distinct Objective-C type
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m: In function '-[PuzzleController emailChallenge]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:636: warning: unused variable 'times'
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m: At top level:
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:867: warning: incomplete implementation of class 'PuzzleController'
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:867: warning: method definition for '-removeAd' not found
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:867: warning: method definition for '-showAd' not found
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/PuzzleController.m:867: warning: method definition for '-hitSweepstakes' not found

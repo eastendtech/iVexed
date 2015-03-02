@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TapjoyConnectReturnObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tapjoyconnect.com/">
+  <GetScoreAndFilterInfoReturnObject>
+	<PrimaryColor>928844</PrimaryColor>
+	<FilterName1>Color</FilterName1>
+    <FilterType1>0</FilterType1>
+    <FilterType2 xsi:nil="true" />
+    <FilterType3 xsi:nil="true" />
+    <FilterType4 xsi:nil="true" />
+    <FilterType5 xsi:nil="true" />
+    <FilterType6 xsi:nil="true" />
+    <ScoreName1>Clicks</ScoreName1>
+    <ScoreDescending1>true</ScoreDescending1>
+    <ScoreDescending2>false</ScoreDescending2>
+    <ScoreDescending3>false</ScoreDescending3>
+    <ScoreDescending4>false</ScoreDescending4>
+    <ScoreDescending5>false</ScoreDescending5>
+    <ScoreDescending6>false</ScoreDescending6>
+    <ScoreDescending7>false</ScoreDescending7>
+    <FilterValues1>
+      <FilterValue>
+        <name>White</name>
+        <ordinal>1</ordinal>
+      </FilterValue>
+      <FilterValue>
+        <name>Yellow</name>
+        <ordinal>2</ordinal>
+      </FilterValue>
+      <FilterValue>
+        <name>Green</name>
+        <ordinal>3</ordinal>
+      </FilterValue>
+	</FilterValues1>
+  </GetScoreAndFilterInfoReturnObject>
+</TapjoyConnectReturnObject>

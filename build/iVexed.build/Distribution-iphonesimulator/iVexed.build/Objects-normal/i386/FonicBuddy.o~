@@ -1,0 +1,10 @@
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m: In function '-[FonicBuddy viewDidLoad]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26: error: 'c0c767d3' undeclared (first use in this function)
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26: error: (Each undeclared identifier is reported only once
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26: error: for each function it appears in.)
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26: error: 'b027' undeclared (first use in this function)
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26: error: 'b3d6' undeclared (first use in this function)
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:26:26: error: invalid suffix on integer constant
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:28: error: syntax error before '}' token
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m: In function '-[FonicBuddy webView:shouldStartLoadWithRequest:navigationType:]':
+/Users/michaelcolson/Documents/iPhoneProjects/Classic iVexed/Classes/FonicBuddy.m:66: warning: class 'FonicBuddy' does not implement the 'AdBiosDelegateProtocol' protocol
